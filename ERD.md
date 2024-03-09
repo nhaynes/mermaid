@@ -39,7 +39,6 @@ erDiagram
         float valence
         float tempo
     }
-    t ||--|| f : has
 ```
 
 ## Data Dictionary
